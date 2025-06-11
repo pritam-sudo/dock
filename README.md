@@ -1,4 +1,4 @@
-# Death Clock - Personal Dashboard
+# dock Clock - Personal Dashboard
 
 ![Death Clock Preview](images/3qfPju2.png)
 
